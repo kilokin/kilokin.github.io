@@ -2,7 +2,7 @@
 title: szb入坑十天后的谢幕曲死使用报告
 date: 2023-02-19 00:00:00
 cover: https://gcore.jsdelivr.net/gh/kilokin/p-for-b@main/img/1676774264440.webp
-tsgs: 影之诗
+tags: 影之诗
 categories: 影之诗
 ---
 
