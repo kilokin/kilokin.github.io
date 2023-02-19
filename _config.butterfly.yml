@@ -322,7 +322,7 @@ valine:
 # https://waline.js.org/
 waline:
   serverURL: app-production-b82d.up.railway.app # Waline server address url
-  bg: https://i.loli.net/2018/08/16/5b7595e462ff9.jpg # waline background
+  bg:  # waline background
   pageview: false
   option:
 
