@@ -68,7 +68,7 @@ mathjax:
 
 # KaTeX
 katex:
-  enable: false
+  enable: true
   per_page: false
   hide_scrollbar: true
 
@@ -88,7 +88,7 @@ disable_top_img: false
 
 # The banner image of home page
 index_img:
-  - https://gcore.jsdelivr.net/gh/kilokin/p-for-b@main/img/174938_origin_cbde9bcf96754502bceaaf4c05d420f0.jpeg
+  - https://gcore.jsdelivr.net/gh/kilokin/p-for-b@main/img/1681554282110.png
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: 
