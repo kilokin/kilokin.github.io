@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 原初の一
+title: 通りの遺跡
 subtitle: ''
 description: ''
 keywords:
-author: Kilokin
+author: 壹拾玖千金
 language: zh-CN
 timezone: Asia/Shanghai
 
@@ -127,3 +127,8 @@ abbrlink:
 markdown:
   plugins:
    - '@renbaoshuo/markdown-it-katex'
+  
+aplayer:
+  meting: true
+  asset_inject: false
+
